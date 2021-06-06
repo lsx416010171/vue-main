@@ -15,6 +15,10 @@ const routes = [
     name: 'vue',
   },
   {
+    path: '/react',
+    name: 'react',
+  },
+  {
     path: '/about',
     name: 'About',
     // route level code-splitting
